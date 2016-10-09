@@ -2,7 +2,7 @@
 Open Source for Hololens
 
 ------------------------------------------------------------------------------
-github.com/Microsoft
+# Microsoft
 HoloToolkit
 https://github.com/Microsoft/HoloToolkit
 
@@ -21,7 +21,7 @@ https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/Holog
 TagAlong
 https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/HolographicTagAlong
 
-Other
+# Other
 HoliMoli (Molecular Hologram Viewer)
 https://github.com/arminms/HoliMoli
 
